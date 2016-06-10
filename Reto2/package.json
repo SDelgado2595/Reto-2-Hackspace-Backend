@@ -1,0 +1,17 @@
+{
+  "name": "reto2hackspace",
+  "version": "1.0.0",
+  "description": "consumir una api que obtenga el id al ingresar el nickname",
+  "main": "index.js",
+  "dependencies": {
+    "hapi": "^13.4.1",
+    "request": "^2.72.0",
+    "vision": "^4.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Susan Delgado",
+  "license": "ISC"
+}
